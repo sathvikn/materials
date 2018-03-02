@@ -1,0 +1,43 @@
+Property,Property Cost,House Cost,No House Rent,Hotel Rent,Colors
+GO,0,0,0,0,NA
+Mediterranean,60,50,4,250,Purple
+Com1,0,0,0,0,NA
+Baltic,60,50,8,450,Purple
+Income,0,0,0,0,NA
+Reading RR,200,0,200,200,Railroad
+Oriental,100,50,12,550,Light Blue
+Chance1,0,0,0,0,NA
+Vermont,100,50,12,550,Light Blue
+Connecticut,120,50,16,600,Light Blue
+Visiting Jail,0,0,0,0,NA
+St Charles,140,100,20,750,Pink
+Electric,150,0,70,70,Utilities
+States,140,100,20,750,Pink
+Virginia,160,100,24,900,Pink
+Penn RR,200,0,200,200,Railroad
+St James,180,100,28,950,Orange
+Com2,0,0,0,0,NA
+Tennessee,180,100,28,950,Orange
+New York,200,100,32,1000,Orange
+Free Parking,0,0,0,0,NA
+Kentucky,220,150,36,1050,Red
+Chance2,0,0,0,0,NA
+Indiana,220,150,36,1050,Red
+Illinois,240,150,40,1100,Red
+BO RR,200,0,200,200,Railroad
+Atlantic,260,150,44,1150,Yellow
+Ventnor,260,150,44,1150,Yellow
+Water,150,0,70,70,Utilities
+Marvin Gardens,280,150,48,1200,Yellow
+Jail,0,0,0,0,NA
+Pacific,300,200,52,1275,Green
+North Carolina,300,200,52,1275,Green
+Com3,0,0,0,0,NA
+Pennsylvania,320,200,56,1400,Green
+Short Line,200,0,200,200,Railroad
+Chance3,0,0,0,0,NA
+Park Place,350,200,70,1500,Blue
+Luxury Tax,0,0,0,0,NA
+Boardwalk,400,200,100,2000,Blue
+Jail Turn 2,0,0,0,0,NA
+Jail Turn 3,0,0,0,0,NA
